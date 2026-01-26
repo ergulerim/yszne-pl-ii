@@ -49,6 +49,10 @@ Run both services:
 ```bash
 docker compose up --build
 
+Public Service (Auth + Foods): http://127.0.0.1:8001/docs  
+Core Service (Cart + Orders): http://127.0.0.1:8002/docs
+
+
 
 
 
