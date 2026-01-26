@@ -45,9 +45,11 @@ The Factory Pattern is used during the order creation process to centralize the 
 
 ## Docker Support
 
-The application can be built and run using Docker Compose.
+### Run the application with Docker
 
 ```bash
 docker compose up --build
+
+
 
 
