@@ -43,12 +43,12 @@ Main endpoints:
 
 The Factory Pattern is used during the order creation process to centralize the logic of transforming cart items into order items and calculating the total order amount. This improves maintainability and makes the system easier to extend with additional business rules in the future.
 
-## Docker Support
+## Docker Support (Two REST Services)
 
-### Run the application with Docker
-
+Run both services:
 ```bash
 docker compose up --build
+
 
 
 
